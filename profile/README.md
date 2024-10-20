@@ -5,6 +5,8 @@ arnav@surve.dev
 syrusa663@gmail.com
 max.p.kessler@gmail.com
 ```
+<img width="650" alt="Screenshot 2024-10-20 at 11 07 52 AM" src="https://github.com/user-attachments/assets/a028c049-771f-42f9-b18d-480520af61c7">
+
 
 ## Inspiration
 As music producers, we feel that music production is a severely underrepresented niche in the field of machine learning and generative AI. We wanted to help supercharge the human race by bringing the newest global revolution to your DAW.
